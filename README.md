@@ -21,7 +21,7 @@ A project to classify news articles as real or fake by RNN and LSTM using Natura
 Implementation of Generative Pre-trained Transformer 2 (GPT) for text generation tasks from scratch implemented by learning from Andrej Karpathy's implementation.
 
 ### 6.) Image Captioning
-An image captioning model that generates descriptive captions for Flickr 8k images using a combination of CNN and RNN architectures.
+An image captioning model that generates descriptive captions for Flickr 8k images using a combination of CNN and RNN/LSTM architectures.
 
 
 
