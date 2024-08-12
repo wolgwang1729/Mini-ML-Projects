@@ -23,5 +23,7 @@ Implementation of Generative Pre-trained Transformer 2 (GPT) for text generation
 ### 6.) Image Captioning
 An image captioning model that generates descriptive captions for Flickr 8k images using a combination of CNN and RNN/LSTM architectures.
 
+### 7.) Vision Transformer
+Implemented a Vision Transformer (ViT) from scratch and trained it on the CIFAR10 dataset. This project demonstrates the power of transformer-based architectures in computer vision tasks, particularly image classification.
 
 
